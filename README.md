@@ -1,22 +1,26 @@
 # CYF-Tools
-The tools for Create Your Frisk
+これは[Create Your Frisk](https://github.com/RhenaudTheLukark/CreateYourFrisk)のツール置き場です。
 
-There are each softwares' code and license on following links.
+ソフトウェアやツールのコード及びライセンスは下記のツール説明内にあるリンクにあります。
+
+<br></br>
+英語(English) -> [https://github.com/Fennene/CYF-Tools-En](https://github.com/Fennene/CYF-Tools-En)
 
 <br></br>
 ## CreateYourFrisk SublimeText-Snippets
 \[This is not software\]
 
-SublimeText's Snippet (It doesn't contain all functions.)
+Sublime Text用のSnippet(入力予測)です。
+(CYFの全ての関数が含まれているわけではありません。)
 
-Copy to `AppData\Roaming\Sublime Text 3\Packages\User`
+`AppData\Roaming\Sublime Text 3\Packages\User`にコピーして使います。
 
 <br></br>
 ## CreateYourFrisk LuaCode Obfuscator
-### !This is Beta version: Only Japanese
-The application helps to obfuscate Lua code.
-It is some features:
-+ Can choose copying or overwritting
-+ Remove comment
-+ Remove extra blanks
-+ Make it one line
+### !これはベータバージョンです!
+このソフトはLuaコードの難読化を行います。
+下記のような機能があります。
++ 難読化後のファイルを新規コピーとするか上書きするか決まられる
++ コメントの削除
++ 余分な余白を削除する
++ コードを１行にする
